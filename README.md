@@ -1,2 +1,0 @@
-# TimerRJS
-Created with CodeSandbox
